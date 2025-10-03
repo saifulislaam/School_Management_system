@@ -127,8 +127,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-## 📷 Screenshots (Optional)
-
-*Add screenshots of your UI here after running the project.*
-
----
+#
