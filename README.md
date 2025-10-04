@@ -115,6 +115,14 @@ This project runs locally using **XAMPP (Apache + MySQL)** and provides features
 
 ---
 
+## 📚 Documentation
+
+- API and components docs live in `docs/`
+  - [Endpoints overview](docs/endpoints/README.md)
+  - [Components overview](docs/components/README.md)
+
+---
+
 ## 🤝 Contribution
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
